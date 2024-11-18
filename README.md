@@ -13,5 +13,5 @@
 
 ## Descritivo do Aluno:
 
--> DESCREVA AQUI <-
+A atividade avaliativa engloba aspectos importantes e primordiais, principalmente para adentrar ao conteúdo de API. Foi visto a maneira em que os arquivos passaram a ser organizados para que pudesse haver a comunicação com a API e o retorno de dados com base na moeda escolhida.
  
