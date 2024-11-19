@@ -13,7 +13,9 @@
 
 ## Descritivo do Aluno:
 
-A atividade avaliativa engloba aspectos importantes e primordiais, principalmente para adentrar ao conteúdo de API. Foi visto a maneira em que o código e os arquivos passam a ser organizados, para que possam comunicar corretamente com a API e o retorno de dados com base na moeda escolhida. 
+A atividade avaliativa engloba aspectos importantes e primordiais, principalmente para adentrar ao conteúdo de API. Foi visto a maneira em que o código e os arquivos passam a ser organizados, para que possam comunicar corretamente com a API e o retorno de dados com base na moeda escolhida.
+
+Principais pontos da aplicação:
 * onCreate() -> Inicializa, configura a interface e busca a seleção do usuário;
 * converter() -> Valida se alguma opção foi selecionada e se foi digitado algum valor, após isso busca na API (com base na seleção do usuário) a conversão correta para ser exibida em tela, com base nas cláusulas if e else. Há também validação com try/catch para captar erros quando a aplicação não estiver funcionando devidamente;
 * AwesomeClient() -> Realiza as requisições para obter os dados da API de converão de moedas (utilizando a biblioteca Retrofit);
